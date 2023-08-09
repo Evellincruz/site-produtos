@@ -1,0 +1,95 @@
+nav#menu ul{
+     text-transform: arial;
+     list-style: none;
+     position: absolute;
+     top: 50px;
+     left: 700px;
+}
+nav#menu{
+    display: block;
+}
+nav#menu li{
+    display: inline-block;
+    background-color: rgb(179, 219, 255);
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    font-family: 'arial';
+    font-weight: bold;
+}
+nav#menu h1{
+    display: none;
+    font-size: 84px;
+    
+}
+h3{
+    color:green;
+    top: 79px;
+    font-size: 50px;
+    
+}
+h2 {
+font-size: 32px;
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body{
+   background-color: rgb(229, 253, 251);
+   margin: 0px;
+}
+header{
+    background-color: rgb(193, 252, 247);
+    padding-top: 70px;
+    padding-bottom: 60px;
+    position: relative;
+}
+img{
+    width: 28%;
+    margin-left: 35%;
+
+}
+nav#menu a:link{
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+nav#menu a:visited{
+    color: black;
+}
+nav#menu a:hover{
+    color: aliceblue;
+    transition: all 0.5s ease;
+}
+#titulo{
+    font-size: 100px;
+    margin: 0px;
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: "rgb(0, 0, 0)";
+}
+
+h3, h2, h1{
+    text-align: center;
+    font-size: 38px;
+    
+}
+.p b {
+    width: 10%;
+    padding: 15px;
+    background: #20c1e9;
+    color: pink; 
+    font-weight: arial;
+    font-size: 18px;
+    margin: 0 auto;
+}
+.b {
+    background-color: purple;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
