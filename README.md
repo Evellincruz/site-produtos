@@ -1,4 +1,3 @@
 # site-produtos
-Site de produtos
-Esse site tem como objetivo vendas de produtos
+Aplicação ultilizando recursos de tabela para construção de página de produtos
 
