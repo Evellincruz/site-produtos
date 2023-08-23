@@ -1,3 +1,3 @@
 # Projeto Site de Produtos
-Aplicação ultilizando recursos de tabela para construção de página de produtos
+Projeto criado para venda de produtos Web, utilizamos HTML e CSS para realizar o site, as vendas são sobre Carros.
 
